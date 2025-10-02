@@ -3,14 +3,23 @@
 *TAs: Andrew Hooyman and Rini Varghese*<br>
 Learn more about ReproRehab here: https://www.reprorehab.usc.edu
 
-# Overview  
-Welcome Pod 3! We have created a GitHub repository as a centralized location to store and share all the materials/code/resources discussed during the bootcamp. 
-Each week, we will share with you a **"codebook"** that contains the code and description for what we covered in class. This codebook will be shared in 3 formats to ensure it is accessible to everyone:
-1) ***.IPYNB format***: in Jupyter Notebook format. This will contain the most comprehensive format with commented code and markdown descriptions of what each line does. It also is executable! (more on this later)
-2) ***.PDF format***: in plain old PDF format. This will be just as comprehensive but not executable. 
-3) ***.R format***: in native R format. This will only have a commented version of the code, but essentially will run on your R studio interface and do all the exact same things.
+# Getting Started  
+Welcome Pod 3! We have created a GitHub repository as a centralized location to store and share all the materials/code/resources discussed during the bootcamp. To get started with using this repository, follow 3 steps:<br><br>
+**Step 1**: Fork this repository by clicking [here](https://github.com/rinivarg/ReproRehab-Pod3/fork).<br>
+**Step 2**: Download and install `git` on your computer [here](https://git-scm.com/downloads)<br>
+**Step 3**: Clone this repository locally to your computer by following instructions [here](https://github.com/rinivarg/ReproRehab-Pod3/blob/main/Git%20and%20GitHub/Github%20integration%20in%20Rstudio%20-%20How%20to%20download%20the%20repo%20into%20Rstudio%20and%20keep%20it%20updated%20on%20your%20local%20machine..pdf) <br>
 
-To follow along in each class, go to this [folder](https://github.com/rinivarg/ReproRehab2024-Pod3/tree/main/Git%20and%20GitHub) and learn how you can integrate this repository with R.
+You will now be able to access all the code and materials and follow along each week.
+
+# Overview of the Course
+Each week, we will share a **“codebook”** that contains the code and explanations for what we covered in class. To make it accessible, the codebook will be available in three formats:  
+
+1. **`.R` format**: A script that can be run in RStudio. Contains the same code with comments, but without the step-by-step explanations and outputs.  
+
+2. **`.ipynb` format (Jupyter Notebook)**: An interactive notebook with code and explanations. Run it step-by-step, view outputs, and read notes. Open locally in Jupyter (install <a href="https://youtu.be/BQ-aM3ULKYs?si=5DmHN1956TxVTE-s&t=160" target="_blank">tutorial</a>) or in **Google Colab**.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)  
+
+3. **`.pdf` format**: A static version of the notebook with code and explanations, but not interactive.
+
 
 # Curriculum
 Below is the curriculum which shows the week-wise breakdown of the topics we will cover. Everything on here is subject to change as the needs of the pod evolve. Looking forward to 8 weeks of learning and teamwork!
